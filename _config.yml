@@ -12,8 +12,8 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "Japan SciCom Forum"
 email: ""
 description: "Join us to discuss global science communication & outreach in Japan / 英語による科学広報やアウトリーチを一緒に考えませんか？"
-baseurl: ""
-url: "https://japanscicom.github.io"
+baseurl: "https://japanscicom.github.io/2019"
+url: "https://japanscicom.github.io/2019"
 permalink: "/blog/:title"
 #googleAnalyticsTrackingId: "UA-43643469-5"
 #googleAnalyticsSiteUrl: "ejtasker.github.io"
@@ -221,7 +221,7 @@ footerBlocks:
 -
   title: "Contact / お問い合わせ"
   links:
-   - {link: "mailto:jsf20@kikenji.sakura.ne.jp", text: "Email jsf20@kikenji.sakura.ne.jp （日本語でのお問い合わせにも対応しています）"}
+   - {link: "https://japanscicom.github.io/#team", text: "Visit the current JSF website / JSF ウェブサイトをご覧ください"}
 -
   title: "Code of Conduct / 参加者の心構え（行動規範）"
   links:
